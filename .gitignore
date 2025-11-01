@@ -1,2 +1,7 @@
 data/
-*~
+*.fastq
+*.fastq.gz
+*.bam
+*.gtf
+*.gff
+*.log
